@@ -3,4 +3,4 @@
 
 You can see the environment of the game in the following picture: <br>
 
-<img src="./ping-pong.png" alt="Game Env"/>
+<img src="./Ping-Pong.jpeg" alt="Game Env"/>
